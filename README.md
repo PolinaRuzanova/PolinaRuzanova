@@ -22,11 +22,6 @@
 - [Созданный и протестированный дизайн личного кабинета абитуриента НГТУ](https://www.figma.com/design/wjZ9IIJdcK1wF3IYQgYFcf/lk?node-id=0-1&t=vacN0kKP4rRN5ll7-1)
 
 
-###
-
-<p align="center">
- <img width="600" src="assets/github-snake.svg" alt="snake"/>
-</p>
 
 ###
 
