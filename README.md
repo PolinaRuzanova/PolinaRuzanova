@@ -20,8 +20,8 @@
 
 - [Артефакты тестирования для B2B Строймаркет](https://drive.google.com/drive/folders/1qKkL17PG2tBr2cxuU-nOgYD-r0fwk4ei?usp=sharing)
 - [Созданный и протестированный дизайн личного кабинета абитуриента НГТУ](https://www.figma.com/design/wjZ9IIJdcK1wF3IYQgYFcf/lk?node-id=0-1&t=vacN0kKP4rRN5ll7-1)
-- [Разработанное и протестированное веб-приложения для автоматизации процесса записи на секции в университете ](https://github.com/PolinaRuzanova/online-sections.git)
-
+- [Разработанное и протестированное веб-приложение для автоматизации процесса записи на секции в университете ](https://github.com/PolinaRuzanova/online-sections.git)
+- [Разработанное и протестированное VR-приложение "Виртуальная лаборатория" ](https://drive.google.com/drive/folders/1oUH4dxieTvD1tVP1uSGppUleRH-vsKUM)
 
 ###
 
